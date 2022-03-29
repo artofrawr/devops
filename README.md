@@ -2,7 +2,7 @@
 
 
 ### k8s-postgres-backup
-A Kubernetes cronjob to back up a Postgres db and upload it to S3.
+A Kubernetes cronjob to back up a Postgres db and upload it to S3.  
 https://github.com/artofrawr/k8s-postgres-backup
 
 ### dokku-multi-dockerfile
